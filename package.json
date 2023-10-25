@@ -1,5 +1,6 @@
 {
   "name": "gotapp",
+  "homepage": "https://mettje69.github.io/got-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
